@@ -4,8 +4,8 @@ import App from './App.jsx'
 import './index.css'
 
 import {createBrowserRouter, RouterProvider} from 'react-router-dom'
-import userAvaliation from './routes/userAvaliation.jsx'
-import managerPage from './routes/managerPage.jsx'
+import UserAvaliation from './routes/userAvaliation.jsx'
+import ManagerPage from './routes/managerPage.jsx'
 
 
 const router = createBrowserRouter([
@@ -15,11 +15,11 @@ const router = createBrowserRouter([
     children: [
       {
         path: '/avaliation',
-        element: <userAvaliation />
+        element: <UserAvaliation />
       },
       {
         path: '/manager',
-        element: <managerPage />
+        element: <ManagerPage />
       }
     ]
   }

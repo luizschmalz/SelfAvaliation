@@ -1,0 +1,73 @@
+.user-avaliation {
+    max-width: 700px;
+    margin-top: 1rem;
+    margin-bottom: 3rem;
+    padding: 30px;
+    background-color: #f7f9fc;
+    border-radius: 16px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .user-avaliation h2 {
+    margin-top: 1rem;
+    text-align: center;
+    margin-bottom: 30px;
+    color: #333;
+  }
+  
+  .user-avaliation h3 {
+    margin-top: 30px;
+    color: #444;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+  }
+  
+  .avaliation-form label {
+    width: 700px;
+    display: block;
+    margin-top: 20px;
+    font-weight: bold;
+    color: #222;
+  }
+  
+  .avaliation-form input[type="number"],
+  .avaliation-form input[type="text"],
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 6px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 14px;
+    box-sizing: border-box;
+  }
+  
+  .avaliation-form input[type="number"] {
+    max-width: 100px;
+  }
+  
+  .avaliation-form button {
+    margin-top: 30px;
+    padding: 12px 25px;
+    background-color: #4a90e2;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    transition: background-color 0.3s;
+  }
+  
+  .avaliation-form button:hover {
+    background-color: #357ab8;
+  }
+  
+  .required {
+    color: red;
+    font-size: 15px;
+  }
