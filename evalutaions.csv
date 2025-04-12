@@ -1,0 +1,731 @@
+id;criterio;tipo;nota;justificativa;data_avaliacao
+3001;atender aos prazos;execução;7.6;boa execução com erros pontuais;2023-03-10
+3002;fazer mais com menos;execução;8.0;responsável, porém inseguro;2023-04-18
+3004;resiliencia nas adversidades;execução;10.0;organizado, mas às vezes desatento;2023-04-19
+3005;resiliencia nas adversidades;execução;8.0;reativo, falta proatividade;2023-04-15
+3006;entregar com qualidade;comportamental;10.0;entrega consistente, mas falta comunicação;2023-04-01
+3007;resiliencia nas adversidades;comportamental;9.5;criativo, porém pouco claro;2023-03-31
+3008;capacidade de aprender;comportamental;8.0;inovador, mas confuso;2023-04-10
+3012;sentimento de dono;comportamental;7.1;criativo, porém pouco claro;2023-03-23
+3013;resiliencia nas adversidades;execução;6.2;inovador, mas confuso;2023-04-15
+3015;organização no trabalho;execução;8.4;trabalho em equipe precisa melhorar;2023-04-21
+3018;fazer mais com menos;comportamental;7.0;entrega consistente, mas falta comunicação;2023-03-13
+3019;"ser ""team player""";execução;6.5;boa execução com erros pontuais;2023-03-16
+3020;entregar com qualidade;execução;6.5;criativo, porém pouco claro;2023-04-24
+3021;resiliencia nas adversidades;execução;10.0;trabalho em equipe precisa melhorar;2023-04-16
+3022;fazer mais com menos;execução;9.0;aprende rápido, mas esquece feedbacks;2023-04-08
+3024;organização no trabalho;execução;8.4;entrega consistente, mas falta comunicação;2023-03-30
+3025;resiliencia nas adversidades;execução;9.7;boa execução com erros pontuais;2023-04-03
+3030;fazer mais com menos;execução;6.4;boa execução com erros pontuais;2023-04-03
+3031;resiliencia nas adversidades;execução;6.1;criativo, porém pouco claro;2023-04-22
+3033;"ser ""team player""";comportamental;7.0;reativo, falta proatividade;2023-03-21
+3034;organização no trabalho;execução;9.7;entrega consistente, mas falta comunicação;2023-04-21
+3038;resiliencia nas adversidades;comportamental;9.3;responsável, porém inseguro;2023-04-24
+3039;pensar fora da caixa;execução;9.1;boa execução com erros pontuais;2023-05-07
+3040;fazer mais com menos;execução;6.9;trabalho em equipe precisa melhorar;2023-05-04
+3041;"ser ""team player""";comportamental;6.9;responsável, porém inseguro;2023-03-29
+3042;resiliencia nas adversidades;execução;6.7;inovador, mas confuso;2023-03-16
+3044;atender aos prazos;comportamental;6.6;criativo, porém pouco claro;2023-03-26
+3045;fazer mais com menos;execução;7.6;trabalho em equipe precisa melhorar;2023-05-01
+3046;atender aos prazos;execução;9.8;organizado, mas às vezes desatento;2023-04-21
+3047;sentimento de dono;comportamental;9.7;inovador, mas confuso;2023-04-07
+3048;pensar fora da caixa;execução;9.0;cumpre prazos, mas sem iniciativa;2023-04-12
+3050;sentimento de dono;execução;6.9;boa execução com erros pontuais;2023-04-25
+3051;pensar fora da caixa;execução;7.4;entrega consistente, mas falta comunicação;2023-04-27
+3052;entregar com qualidade;comportamental;8.0;reativo, falta proatividade;2023-04-30
+3053;entregar com qualidade;execução;7.7;reativo, falta proatividade;2023-04-20
+3054;organização no trabalho;comportamental;6.2;entrega consistente, mas falta comunicação;2023-04-07
+3055;organização no trabalho;execução;6.6;entrega consistente, mas falta comunicação;2023-04-08
+3056;entregar com qualidade;comportamental;7.0;entrega consistente, mas falta comunicação;2023-03-23
+3057;capacidade de aprender;execução;8.0;responsável, porém inseguro;2023-04-14
+3059;fazer mais com menos;execução;9.0;boa execução com erros pontuais;2023-03-26
+3060;organização no trabalho;execução;7.0;criativo, porém pouco claro;2023-03-28
+3061;capacidade de aprender;execução;7.3;cumpre prazos, mas sem iniciativa;2023-04-28
+3064;"ser ""team player""";execução;8.6;reativo, falta proatividade;2023-04-10
+3065;capacidade de aprender;execução;7.6;boa execução com erros pontuais;2023-03-22
+3066;capacidade de aprender;execução;6.0;inovador, mas confuso;2023-04-29
+3068;resiliencia nas adversidades;execução;7.6;responsável, porém inseguro;2023-04-26
+3070;resiliencia nas adversidades;comportamental;9.3;criativo, porém pouco claro;2023-04-25
+3071;fazer mais com menos;comportamental;6.4;trabalho em equipe precisa melhorar;2023-04-11
+3072;entregar com qualidade;comportamental;8.9;reativo, falta proatividade;2023-03-19
+3074;fazer mais com menos;comportamental;6.8;organizado, mas às vezes desatento;2023-04-09
+3075;"ser ""team player""";comportamental;8.4;aprende rápido, mas esquece feedbacks;2023-04-13
+3076;pensar fora da caixa;comportamental;8.9;responsável, porém inseguro;2023-03-12
+3077;sentimento de dono;comportamental;7.3;trabalho em equipe precisa melhorar;2023-04-17
+3078;capacidade de aprender;comportamental;7.9;boa execução com erros pontuais;2023-03-31
+3079;atender aos prazos;comportamental;7.0;reativo, falta proatividade;2023-04-01
+3080;entregar com qualidade;execução;6.5;trabalho em equipe precisa melhorar;2023-04-14
+3081;resiliencia nas adversidades;comportamental;9.6;aprende rápido, mas esquece feedbacks;2023-03-12
+3082;fazer mais com menos;execução;6.0;organizado, mas às vezes desatento;2023-05-07
+3083;organização no trabalho;comportamental;9.6;boa execução com erros pontuais;2023-03-17
+3084;pensar fora da caixa;execução;6.7;responsável, porém inseguro;2023-03-10
+3085;entregar com qualidade;comportamental;10.0;aprende rápido, mas esquece feedbacks;2023-04-08
+3086;pensar fora da caixa;execução;7.9;cumpre prazos, mas sem iniciativa;2023-03-24
+3087;atender aos prazos;comportamental;8.1;reativo, falta proatividade;2023-04-06
+3088;organização no trabalho;execução;8.5;boa execução com erros pontuais;2023-03-22
+3089;pensar fora da caixa;execução;9.0;entrega consistente, mas falta comunicação;2023-04-19
+3091;resiliencia nas adversidades;comportamental;8.5;inovador, mas confuso;2023-04-22
+3093;organização no trabalho;execução;8.2;entrega consistente, mas falta comunicação;2023-04-29
+3095;resiliencia nas adversidades;comportamental;9.0;entrega consistente, mas falta comunicação;2023-04-15
+3096;pensar fora da caixa;comportamental;9.6;entrega consistente, mas falta comunicação;2023-04-20
+3097;resiliencia nas adversidades;execução;8.1;aprende rápido, mas esquece feedbacks;2023-05-07
+3098;pensar fora da caixa;comportamental;9.7;boa execução com erros pontuais;2023-05-09
+3099;entregar com qualidade;comportamental;9.9;entrega consistente, mas falta comunicação;2023-03-12
+3100;entregar com qualidade;comportamental;6.6;organizado, mas às vezes desatento;2023-03-28
+3102;pensar fora da caixa;execução;7.4;trabalho em equipe precisa melhorar;2023-03-23
+3103;resiliencia nas adversidades;execução;8.1;aprende rápido, mas esquece feedbacks;2023-03-31
+3105;pensar fora da caixa;comportamental;8.3;cumpre prazos, mas sem iniciativa;2023-04-11
+3106;resiliencia nas adversidades;comportamental;8.9;organizado, mas às vezes desatento;2023-04-26
+3107;entregar com qualidade;execução;7.5;aprende rápido, mas esquece feedbacks;2023-03-11
+3110;atender aos prazos;execução;6.0;entrega consistente, mas falta comunicação;2023-03-17
+3112;"ser ""team player""";comportamental;9.0;reativo, falta proatividade;2023-03-14
+3113;pensar fora da caixa;execução;10.0;aprende rápido, mas esquece feedbacks;2023-04-04
+3115;atender aos prazos;comportamental;8.2;inovador, mas confuso;2023-05-05
+3116;pensar fora da caixa;execução;9.9;criativo, porém pouco claro;2023-04-12
+3117;capacidade de aprender;execução;9.8;trabalho em equipe precisa melhorar;2023-05-04
+3118;resiliencia nas adversidades;comportamental;9.0;reativo, falta proatividade;2023-03-19
+3119;sentimento de dono;execução;8.0;inovador, mas confuso;2023-05-09
+3120;entregar com qualidade;comportamental;7.2;boa execução com erros pontuais;2023-04-16
+3121;sentimento de dono;execução;6.5;cumpre prazos, mas sem iniciativa;2023-03-28
+3122;"ser ""team player""";comportamental;8.9;organizado, mas às vezes desatento;2023-04-22
+3124;fazer mais com menos;comportamental;7.7;reativo, falta proatividade;2023-03-18
+3125;entregar com qualidade;comportamental;7.0;inovador, mas confuso;2023-03-18
+3126;sentimento de dono;execução;6.6;criativo, porém pouco claro;2023-05-06
+3127;capacidade de aprender;comportamental;9.4;trabalho em equipe precisa melhorar;2023-05-08
+3128;entregar com qualidade;execução;6.4;boa execução com erros pontuais;2023-03-26
+3129;pensar fora da caixa;execução;7.5;organizado, mas às vezes desatento;2023-04-17
+3131;atender aos prazos;execução;9.1;criativo, porém pouco claro;2023-03-29
+3132;resiliencia nas adversidades;comportamental;7.1;reativo, falta proatividade;2023-03-16
+3133;resiliencia nas adversidades;comportamental;10.0;reativo, falta proatividade;2023-04-30
+3134;atender aos prazos;comportamental;8.0;inovador, mas confuso;2023-05-01
+3137;entregar com qualidade;comportamental;9.0;reativo, falta proatividade;2023-03-18
+3138;resiliencia nas adversidades;execução;8.2;criativo, porém pouco claro;2023-04-14
+3140;organização no trabalho;execução;8.0;cumpre prazos, mas sem iniciativa;2023-03-31
+3141;entregar com qualidade;execução;6.5;reativo, falta proatividade;2023-03-28
+3142;atender aos prazos;execução;10.0;responsável, porém inseguro;2023-03-29
+3143;pensar fora da caixa;comportamental;6.4;entrega consistente, mas falta comunicação;2023-03-23
+3144;organização no trabalho;execução;9.0;reativo, falta proatividade;2023-03-17
+3147;fazer mais com menos;execução;8.4;boa execução com erros pontuais;2023-04-22
+3148;resiliencia nas adversidades;execução;10.0;entrega consistente, mas falta comunicação;2023-04-03
+3152;entregar com qualidade;comportamental;8.3;criativo, porém pouco claro;2023-03-17
+3155;pensar fora da caixa;execução;8.0;entrega consistente, mas falta comunicação;2023-04-12
+3156;sentimento de dono;comportamental;6.7;boa execução com erros pontuais;2023-04-28
+3157;atender aos prazos;execução;7.1;inovador, mas confuso;2023-03-10
+3158;"ser ""team player""";execução;6.9;inovador, mas confuso;2023-03-11
+3159;sentimento de dono;comportamental;6.8;boa execução com erros pontuais;2023-04-05
+3160;sentimento de dono;execução;9.0;trabalho em equipe precisa melhorar;2023-03-20
+3162;fazer mais com menos;execução;7.6;responsável, porém inseguro;2023-03-14
+3163;entregar com qualidade;execução;9.5;inovador, mas confuso;2023-03-26
+3164;entregar com qualidade;execução;8.0;inovador, mas confuso;2023-05-01
+3165;entregar com qualidade;comportamental;6.0;trabalho em equipe precisa melhorar;2023-03-28
+3168;fazer mais com menos;comportamental;9.0;criativo, porém pouco claro;2023-04-20
+3169;organização no trabalho;execução;9.3;responsável, porém inseguro;2023-05-09
+3170;atender aos prazos;comportamental;8.5;boa execução com erros pontuais;2023-05-06
+3171;sentimento de dono;execução;9.0;reativo, falta proatividade;2023-05-04
+3172;capacidade de aprender;execução;8.5;responsável, porém inseguro;2023-04-29
+3175;capacidade de aprender;execução;8.8;boa execução com erros pontuais;2023-04-21
+3177;entregar com qualidade;execução;8.8;trabalho em equipe precisa melhorar;2023-03-11
+3179;pensar fora da caixa;execução;6.9;organizado, mas às vezes desatento;2023-04-14
+3180;resiliencia nas adversidades;execução;8.2;trabalho em equipe precisa melhorar;2023-04-06
+3181;resiliencia nas adversidades;comportamental;8.0;organizado, mas às vezes desatento;2023-05-03
+3182;pensar fora da caixa;comportamental;9.1;boa execução com erros pontuais;2023-04-26
+3183;organização no trabalho;comportamental;9.0;cumpre prazos, mas sem iniciativa;2023-03-30
+3184;resiliencia nas adversidades;comportamental;6.9;aprende rápido, mas esquece feedbacks;2023-04-14
+3185;entregar com qualidade;comportamental;6.0;trabalho em equipe precisa melhorar;2023-04-03
+3186;pensar fora da caixa;execução;7.0;entrega consistente, mas falta comunicação;2023-03-18
+3187;pensar fora da caixa;execução;8.0;entrega consistente, mas falta comunicação;2023-04-09
+3190;pensar fora da caixa;comportamental;8.0;reativo, falta proatividade;2023-03-28
+3191;atender aos prazos;comportamental;6.3;cumpre prazos, mas sem iniciativa;2023-03-16
+3192;entregar com qualidade;comportamental;10.0;boa execução com erros pontuais;2023-03-22
+3193;sentimento de dono;execução;7.3;responsável, porém inseguro;2023-04-19
+3194;atender aos prazos;comportamental;9.2;criativo, porém pouco claro;2023-04-28
+3195;pensar fora da caixa;comportamental;9.6;criativo, porém pouco claro;2023-04-27
+3196;"ser ""team player""";execução;7.0;criativo, porém pouco claro;2023-04-20
+3198;organização no trabalho;execução;7.2;criativo, porém pouco claro;2023-03-21
+3200;fazer mais com menos;comportamental;6.8;inovador, mas confuso;2023-04-06
+3201;atender aos prazos;execução;8.3;entrega consistente, mas falta comunicação;2023-05-08
+3202;pensar fora da caixa;execução;9.9;reativo, falta proatividade;2023-04-28
+3203;entregar com qualidade;execução;6.4;trabalho em equipe precisa melhorar;2023-05-07
+3204;sentimento de dono;execução;7.2;trabalho em equipe precisa melhorar;2023-03-12
+3205;entregar com qualidade;execução;6.0;inovador, mas confuso;2023-03-24
+3206;sentimento de dono;execução;7.0;inovador, mas confuso;2023-05-02
+3207;sentimento de dono;comportamental;9.0;trabalho em equipe precisa melhorar;2023-04-07
+3208;sentimento de dono;execução;10.0;reativo, falta proatividade;2023-03-30
+3209;fazer mais com menos;execução;9.0;responsável, porém inseguro;2023-03-10
+3211;pensar fora da caixa;execução;10.0;trabalho em equipe precisa melhorar;2023-04-28
+3212;"ser ""team player""";comportamental;8.0;responsável, porém inseguro;2023-04-24
+3214;pensar fora da caixa;comportamental;6.9;cumpre prazos, mas sem iniciativa;2023-03-20
+3215;fazer mais com menos;comportamental;8.4;aprende rápido, mas esquece feedbacks;2023-04-24
+3217;"ser ""team player""";execução;6.4;cumpre prazos, mas sem iniciativa;2023-04-25
+3218;pensar fora da caixa;execução;9.8;entrega consistente, mas falta comunicação;2023-04-16
+3219;capacidade de aprender;execução;10.0;aprende rápido, mas esquece feedbacks;2023-04-06
+3220;organização no trabalho;execução;8.0;criativo, porém pouco claro;2023-04-18
+3222;resiliencia nas adversidades;comportamental;10.0;responsável, porém inseguro;2023-05-05
+3223;capacidade de aprender;comportamental;9.6;reativo, falta proatividade;2023-03-20
+3224;"ser ""team player""";execução;10.0;cumpre prazos, mas sem iniciativa;2023-05-03
+3225;pensar fora da caixa;comportamental;7.1;aprende rápido, mas esquece feedbacks;2023-04-21
+3226;resiliencia nas adversidades;execução;7.8;responsável, porém inseguro;2023-04-01
+3227;"ser ""team player""";comportamental;9.5;entrega consistente, mas falta comunicação;2023-04-21
+3228;capacidade de aprender;comportamental;10.0;trabalho em equipe precisa melhorar;2023-04-20
+3229;sentimento de dono;execução;10.0;responsável, porém inseguro;2023-03-15
+3230;organização no trabalho;comportamental;6.3;criativo, porém pouco claro;2023-05-09
+3231;fazer mais com menos;execução;8.0;organizado, mas às vezes desatento;2023-03-24
+3232;"ser ""team player""";comportamental;7.1;aprende rápido, mas esquece feedbacks;2023-04-19
+3233;capacidade de aprender;comportamental;7.0;boa execução com erros pontuais;2023-03-28
+3235;sentimento de dono;execução;6.4;boa execução com erros pontuais;2023-04-05
+3237;resiliencia nas adversidades;execução;7.1;reativo, falta proatividade;2023-03-22
+3238;"ser ""team player""";execução;10.0;trabalho em equipe precisa melhorar;2023-03-20
+3240;entregar com qualidade;execução;9.1;aprende rápido, mas esquece feedbacks;2023-05-03
+3241;"ser ""team player""";execução;7.5;criativo, porém pouco claro;2023-05-04
+3242;sentimento de dono;comportamental;9.0;aprende rápido, mas esquece feedbacks;2023-04-11
+3243;sentimento de dono;execução;9.0;responsável, porém inseguro;2023-05-06
+3246;atender aos prazos;comportamental;9.0;criativo, porém pouco claro;2023-04-02
+3247;organização no trabalho;comportamental;7.9;entrega consistente, mas falta comunicação;2023-05-05
+3248;entregar com qualidade;comportamental;9.3;inovador, mas confuso;2023-05-07
+3250;resiliencia nas adversidades;comportamental;8.8;trabalho em equipe precisa melhorar;2023-03-17
+3251;sentimento de dono;comportamental;9.0;entrega consistente, mas falta comunicação;2023-04-26
+3253;capacidade de aprender;comportamental;6.0;criativo, porém pouco claro;2023-04-27
+3256;entregar com qualidade;execução;9.5;entrega consistente, mas falta comunicação;2023-03-17
+3257;capacidade de aprender;comportamental;9.8;organizado, mas às vezes desatento;2023-03-18
+3258;sentimento de dono;comportamental;7.4;entrega consistente, mas falta comunicação;2023-04-23
+3259;capacidade de aprender;execução;7.1;cumpre prazos, mas sem iniciativa;2023-04-29
+3260;resiliencia nas adversidades;execução;7.0;boa execução com erros pontuais;2023-04-22
+3261;sentimento de dono;execução;8.0;entrega consistente, mas falta comunicação;2023-04-05
+3262;atender aos prazos;comportamental;8.2;cumpre prazos, mas sem iniciativa;2023-04-08
+3263;atender aos prazos;execução;10.0;responsável, porém inseguro;2023-04-17
+3265;organização no trabalho;execução;9.8;organizado, mas às vezes desatento;2023-04-05
+3266;atender aos prazos;execução;9.9;entrega consistente, mas falta comunicação;2023-03-15
+3267;entregar com qualidade;execução;7.7;boa execução com erros pontuais;2023-04-01
+3268;entregar com qualidade;comportamental;9.9;criativo, porém pouco claro;2023-03-28
+3269;capacidade de aprender;comportamental;10.0;responsável, porém inseguro;2023-05-02
+3272;entregar com qualidade;execução;7.7;trabalho em equipe precisa melhorar;2023-04-04
+3274;entregar com qualidade;execução;6.0;aprende rápido, mas esquece feedbacks;2023-04-08
+3275;entregar com qualidade;execução;8.0;cumpre prazos, mas sem iniciativa;2023-04-18
+3276;fazer mais com menos;comportamental;8.6;trabalho em equipe precisa melhorar;2023-03-25
+3277;pensar fora da caixa;execução;7.0;trabalho em equipe precisa melhorar;2023-03-17
+3282;resiliencia nas adversidades;comportamental;8.4;aprende rápido, mas esquece feedbacks;2023-04-21
+3283;resiliencia nas adversidades;execução;9.9;entrega consistente, mas falta comunicação;2023-04-19
+3284;"ser ""team player""";execução;9.0;organizado, mas às vezes desatento;2023-04-12
+3286;entregar com qualidade;execução;7.0;reativo, falta proatividade;2023-04-15
+3287;organização no trabalho;comportamental;9.4;aprende rápido, mas esquece feedbacks;2023-03-25
+3289;organização no trabalho;comportamental;6.1;reativo, falta proatividade;2023-03-14
+3290;fazer mais com menos;comportamental;7.1;trabalho em equipe precisa melhorar;2023-04-09
+3291;pensar fora da caixa;comportamental;9.3;boa execução com erros pontuais;2023-03-23
+3293;pensar fora da caixa;execução;6.4;inovador, mas confuso;2023-04-15
+3294;capacidade de aprender;comportamental;6.9;boa execução com erros pontuais;2023-03-31
+3298;atender aos prazos;execução;7.1;boa execução com erros pontuais;2023-03-18
+3299;organização no trabalho;comportamental;7.0;aprende rápido, mas esquece feedbacks;2023-03-21
+3300;organização no trabalho;comportamental;9.8;aprende rápido, mas esquece feedbacks;2023-03-16
+3301;capacidade de aprender;execução;7.1;reativo, falta proatividade;2023-04-30
+3302;entregar com qualidade;comportamental;6.7;entrega consistente, mas falta comunicação;2023-04-21
+3303;atender aos prazos;execução;6.1;trabalho em equipe precisa melhorar;2023-05-02
+3304;fazer mais com menos;comportamental;9.2;aprende rápido, mas esquece feedbacks;2023-04-12
+3305;fazer mais com menos;comportamental;6.0;responsável, porém inseguro;2023-04-10
+3307;atender aos prazos;execução;10.0;inovador, mas confuso;2023-04-16
+3309;entregar com qualidade;execução;9.0;trabalho em equipe precisa melhorar;2023-04-03
+3311;atender aos prazos;comportamental;10.0;cumpre prazos, mas sem iniciativa;2023-05-08
+3313;sentimento de dono;execução;9.7;cumpre prazos, mas sem iniciativa;2023-05-06
+3315;"ser ""team player""";execução;7.4;criativo, porém pouco claro;2023-03-15
+3316;resiliencia nas adversidades;execução;8.9;aprende rápido, mas esquece feedbacks;2023-04-06
+3317;pensar fora da caixa;comportamental;7.0;criativo, porém pouco claro;2023-04-21
+3319;fazer mais com menos;comportamental;6.3;organizado, mas às vezes desatento;2023-04-03
+3322;organização no trabalho;execução;8.4;responsável, porém inseguro;2023-04-27
+3323;capacidade de aprender;comportamental;9.4;aprende rápido, mas esquece feedbacks;2023-03-31
+3326;"ser ""team player""";execução;10.0;entrega consistente, mas falta comunicação;2023-05-01
+3328;atender aos prazos;comportamental;7.3;cumpre prazos, mas sem iniciativa;2023-03-25
+3329;"ser ""team player""";execução;8.0;criativo, porém pouco claro;2023-03-26
+3331;atender aos prazos;execução;6.6;organizado, mas às vezes desatento;2023-03-16
+3332;entregar com qualidade;comportamental;6.5;aprende rápido, mas esquece feedbacks;2023-04-16
+3333;entregar com qualidade;comportamental;7.0;boa execução com erros pontuais;2023-05-01
+3335;pensar fora da caixa;comportamental;9.0;cumpre prazos, mas sem iniciativa;2023-04-12
+3336;"ser ""team player""";execução;9.6;trabalho em equipe precisa melhorar;2023-03-30
+3338;resiliencia nas adversidades;execução;7.0;organizado, mas às vezes desatento;2023-04-01
+3339;organização no trabalho;comportamental;10.0;inovador, mas confuso;2023-03-24
+3340;organização no trabalho;execução;7.0;inovador, mas confuso;2023-04-09
+3341;sentimento de dono;comportamental;10.0;reativo, falta proatividade;2023-05-01
+3342;capacidade de aprender;comportamental;8.2;trabalho em equipe precisa melhorar;2023-04-15
+3343;resiliencia nas adversidades;execução;9.8;responsável, porém inseguro;2023-05-03
+3344;fazer mais com menos;comportamental;7.0;criativo, porém pouco claro;2023-04-28
+3345;atender aos prazos;execução;6.9;cumpre prazos, mas sem iniciativa;2023-04-13
+3346;resiliencia nas adversidades;comportamental;9.9;criativo, porém pouco claro;2023-05-07
+3348;capacidade de aprender;execução;6.5;entrega consistente, mas falta comunicação;2023-03-10
+3349;capacidade de aprender;comportamental;6.7;inovador, mas confuso;2023-05-02
+3350;organização no trabalho;execução;10.0;aprende rápido, mas esquece feedbacks;2023-04-20
+3352;resiliencia nas adversidades;comportamental;9.2;responsável, porém inseguro;2023-05-09
+3353;pensar fora da caixa;execução;10.0;responsável, porém inseguro;2023-04-10
+3354;pensar fora da caixa;comportamental;8.6;reativo, falta proatividade;2023-04-14
+3355;fazer mais com menos;comportamental;9.8;boa execução com erros pontuais;2023-04-10
+3356;atender aos prazos;comportamental;6.7;responsável, porém inseguro;2023-05-09
+3357;atender aos prazos;comportamental;9.3;aprende rápido, mas esquece feedbacks;2023-05-04
+3359;resiliencia nas adversidades;execução;9.0;trabalho em equipe precisa melhorar;2023-04-20
+3361;sentimento de dono;comportamental;6.6;aprende rápido, mas esquece feedbacks;2023-04-05
+3362;resiliencia nas adversidades;comportamental;6.1;reativo, falta proatividade;2023-05-06
+3363;"ser ""team player""";comportamental;9.4;trabalho em equipe precisa melhorar;2023-04-27
+3364;sentimento de dono;comportamental;6.6;boa execução com erros pontuais;2023-03-19
+3365;entregar com qualidade;comportamental;8.0;reativo, falta proatividade;2023-04-07
+3367;resiliencia nas adversidades;comportamental;7.6;inovador, mas confuso;2023-04-02
+3368;pensar fora da caixa;comportamental;7.8;inovador, mas confuso;2023-05-06
+3370;capacidade de aprender;execução;6.8;aprende rápido, mas esquece feedbacks;2023-05-02
+3372;capacidade de aprender;execução;9.7;responsável, porém inseguro;2023-04-01
+3373;sentimento de dono;execução;6.9;trabalho em equipe precisa melhorar;2023-03-24
+3375;resiliencia nas adversidades;execução;7.7;cumpre prazos, mas sem iniciativa;2023-04-19
+3376;entregar com qualidade;execução;7.6;aprende rápido, mas esquece feedbacks;2023-03-27
+3377;pensar fora da caixa;comportamental;9.3;organizado, mas às vezes desatento;2023-04-10
+3378;fazer mais com menos;execução;8.7;responsável, porém inseguro;2023-04-14
+3379;sentimento de dono;execução;7.8;organizado, mas às vezes desatento;2023-05-05
+3380;entregar com qualidade;execução;9.1;criativo, porém pouco claro;2023-04-02
+3381;atender aos prazos;execução;7.4;inovador, mas confuso;2023-03-16
+3383;organização no trabalho;comportamental;6.9;inovador, mas confuso;2023-04-10
+3384;resiliencia nas adversidades;execução;10.0;criativo, porém pouco claro;2023-04-10
+3388;organização no trabalho;comportamental;6.0;boa execução com erros pontuais;2023-03-17
+3389;entregar com qualidade;comportamental;9.0;aprende rápido, mas esquece feedbacks;2023-03-23
+3390;capacidade de aprender;execução;6.1;reativo, falta proatividade;2023-04-08
+3391;pensar fora da caixa;execução;8.0;organizado, mas às vezes desatento;2023-03-15
+3392;"ser ""team player""";comportamental;8.5;entrega consistente, mas falta comunicação;2023-03-19
+3394;sentimento de dono;comportamental;8.6;boa execução com erros pontuais;2023-04-05
+3395;fazer mais com menos;comportamental;6.2;entrega consistente, mas falta comunicação;2023-03-19
+3397;capacidade de aprender;comportamental;6.8;cumpre prazos, mas sem iniciativa;2023-04-19
+3398;sentimento de dono;execução;8.2;boa execução com erros pontuais;2023-04-16
+3400;"ser ""team player""";comportamental;7.3;criativo, porém pouco claro;2023-03-22
+3403;sentimento de dono;execução;7.2;criativo, porém pouco claro;2023-04-17
+3406;resiliencia nas adversidades;execução;8.0;entrega consistente, mas falta comunicação;2023-04-03
+3408;organização no trabalho;comportamental;9.0;criativo, porém pouco claro;2023-05-01
+3409;"ser ""team player""";comportamental;7.5;trabalho em equipe precisa melhorar;2023-03-15
+3414;"ser ""team player""";execução;9.0;entrega consistente, mas falta comunicação;2023-03-19
+3415;organização no trabalho;execução;7.7;criativo, porém pouco claro;2023-03-16
+3416;capacidade de aprender;execução;7.9;inovador, mas confuso;2023-04-22
+3417;organização no trabalho;execução;8.3;reativo, falta proatividade;2023-04-20
+3418;fazer mais com menos;execução;9.0;trabalho em equipe precisa melhorar;2023-03-21
+3419;organização no trabalho;comportamental;9.2;responsável, porém inseguro;2023-04-19
+3420;organização no trabalho;execução;6.2;inovador, mas confuso;2023-04-26
+3421;pensar fora da caixa;execução;9.0;cumpre prazos, mas sem iniciativa;2023-03-25
+3422;organização no trabalho;comportamental;9.1;inovador, mas confuso;2023-04-28
+3423;"ser ""team player""";comportamental;6.2;cumpre prazos, mas sem iniciativa;2023-03-22
+3425;fazer mais com menos;execução;9.1;inovador, mas confuso;2023-03-26
+3426;organização no trabalho;comportamental;8.3;inovador, mas confuso;2023-04-13
+3427;fazer mais com menos;execução;6.5;trabalho em equipe precisa melhorar;2023-04-17
+3428;sentimento de dono;execução;7.0;criativo, porém pouco claro;2023-03-14
+3429;capacidade de aprender;execução;7.0;entrega consistente, mas falta comunicação;2023-04-08
+3430;fazer mais com menos;comportamental;8.9;boa execução com erros pontuais;2023-04-22
+3431;organização no trabalho;execução;7.0;criativo, porém pouco claro;2023-05-08
+3432;sentimento de dono;comportamental;9.9;criativo, porém pouco claro;2023-04-18
+3433;capacidade de aprender;comportamental;9.2;cumpre prazos, mas sem iniciativa;2023-04-01
+3434;atender aos prazos;execução;6.3;criativo, porém pouco claro;2023-03-17
+3435;resiliencia nas adversidades;execução;7.7;organizado, mas às vezes desatento;2023-04-15
+3436;fazer mais com menos;execução;7.8;entrega consistente, mas falta comunicação;2023-03-26
+3437;organização no trabalho;comportamental;9.1;aprende rápido, mas esquece feedbacks;2023-03-22
+3438;atender aos prazos;execução;7.8;cumpre prazos, mas sem iniciativa;2023-04-22
+3439;pensar fora da caixa;execução;9.6;organizado, mas às vezes desatento;2023-03-27
+3441;capacidade de aprender;comportamental;7.8;organizado, mas às vezes desatento;2023-03-17
+3442;resiliencia nas adversidades;comportamental;9.0;organizado, mas às vezes desatento;2023-04-17
+3443;pensar fora da caixa;execução;8.0;organizado, mas às vezes desatento;2023-03-24
+3444;fazer mais com menos;execução;6.0;trabalho em equipe precisa melhorar;2023-05-08
+3446;pensar fora da caixa;comportamental;7.0;boa execução com erros pontuais;2023-04-13
+3447;atender aos prazos;execução;7.0;entrega consistente, mas falta comunicação;2023-04-28
+3449;capacidade de aprender;execução;9.0;cumpre prazos, mas sem iniciativa;2023-04-27
+3450;entregar com qualidade;execução;9.0;reativo, falta proatividade;2023-03-30
+3451;organização no trabalho;comportamental;10.0;responsável, porém inseguro;2023-04-09
+3452;entregar com qualidade;comportamental;7.0;boa execução com erros pontuais;2023-03-11
+3453;sentimento de dono;execução;10.0;boa execução com erros pontuais;2023-03-27
+3454;resiliencia nas adversidades;comportamental;6.0;reativo, falta proatividade;2023-05-08
+3456;organização no trabalho;execução;6.7;entrega consistente, mas falta comunicação;2023-05-01
+3457;entregar com qualidade;execução;6.0;organizado, mas às vezes desatento;2023-03-19
+3458;organização no trabalho;execução;7.0;organizado, mas às vezes desatento;2023-04-07
+3459;resiliencia nas adversidades;execução;9.1;criativo, porém pouco claro;2023-04-27
+3461;atender aos prazos;comportamental;6.6;criativo, porém pouco claro;2023-04-20
+3462;sentimento de dono;execução;7.0;inovador, mas confuso;2023-03-17
+3465;capacidade de aprender;comportamental;6.0;aprende rápido, mas esquece feedbacks;2023-04-17
+3467;organização no trabalho;execução;6.8;boa execução com erros pontuais;2023-04-04
+3468;resiliencia nas adversidades;execução;7.1;criativo, porém pouco claro;2023-05-08
+3469;fazer mais com menos;comportamental;9.8;entrega consistente, mas falta comunicação;2023-04-22
+3470;organização no trabalho;execução;8.1;trabalho em equipe precisa melhorar;2023-04-26
+3471;fazer mais com menos;comportamental;7.0;responsável, porém inseguro;2023-04-20
+3473;"ser ""team player""";comportamental;7.5;responsável, porém inseguro;2023-04-29
+3474;"ser ""team player""";execução;6.1;inovador, mas confuso;2023-04-25
+3475;capacidade de aprender;comportamental;6.0;criativo, porém pouco claro;2023-04-15
+3477;fazer mais com menos;comportamental;8.9;responsável, porém inseguro;2023-04-16
+3479;resiliencia nas adversidades;execução;9.8;boa execução com erros pontuais;2023-04-20
+3481;sentimento de dono;comportamental;10.0;reativo, falta proatividade;2023-03-27
+3483;atender aos prazos;execução;7.7;cumpre prazos, mas sem iniciativa;2023-04-24
+3484;organização no trabalho;comportamental;6.7;inovador, mas confuso;2023-04-10
+3485;fazer mais com menos;execução;6.6;responsável, porém inseguro;2023-03-29
+3486;resiliencia nas adversidades;comportamental;6.8;entrega consistente, mas falta comunicação;2023-04-11
+3488;resiliencia nas adversidades;comportamental;9.4;trabalho em equipe precisa melhorar;2023-05-06
+3489;pensar fora da caixa;comportamental;8.2;trabalho em equipe precisa melhorar;2023-04-11
+3491;atender aos prazos;comportamental;9.2;organizado, mas às vezes desatento;2023-04-12
+3492;"ser ""team player""";comportamental;9.0;criativo, porém pouco claro;2023-04-09
+3493;entregar com qualidade;execução;8.0;reativo, falta proatividade;2023-04-01
+3494;atender aos prazos;comportamental;9.1;boa execução com erros pontuais;2023-05-01
+3495;atender aos prazos;execução;6.9;responsável, porém inseguro;2023-04-07
+3496;"ser ""team player""";comportamental;7.4;inovador, mas confuso;2023-03-17
+3497;resiliencia nas adversidades;execução;9.9;entrega consistente, mas falta comunicação;2023-03-26
+3498;resiliencia nas adversidades;execução;6.7;entrega consistente, mas falta comunicação;2023-03-15
+3500;capacidade de aprender;execução;6.1;aprende rápido, mas esquece feedbacks;2023-05-05
+3501;sentimento de dono;comportamental;8.4;criativo, porém pouco claro;2023-05-01
+3502;atender aos prazos;execução;8.5;boa execução com erros pontuais;2023-04-20
+3503;"ser ""team player""";execução;6.1;entrega consistente, mas falta comunicação;2023-04-10
+3505;"ser ""team player""";execução;8.0;cumpre prazos, mas sem iniciativa;2023-03-11
+3506;resiliencia nas adversidades;comportamental;9.1;boa execução com erros pontuais;2023-03-31
+3507;"ser ""team player""";comportamental;7.0;aprende rápido, mas esquece feedbacks;2023-03-30
+3508;atender aos prazos;comportamental;9.6;boa execução com erros pontuais;2023-04-20
+3510;organização no trabalho;execução;10.0;inovador, mas confuso;2023-04-22
+3511;sentimento de dono;execução;9.4;boa execução com erros pontuais;2023-03-31
+3512;"ser ""team player""";execução;9.8;organizado, mas às vezes desatento;2023-04-12
+3513;capacidade de aprender;execução;8.3;cumpre prazos, mas sem iniciativa;2023-05-08
+3514;resiliencia nas adversidades;comportamental;8.6;responsável, porém inseguro;2023-04-23
+3515;sentimento de dono;comportamental;8.0;entrega consistente, mas falta comunicação;2023-04-30
+3516;sentimento de dono;execução;10.0;aprende rápido, mas esquece feedbacks;2023-05-03
+3517;sentimento de dono;execução;6.8;inovador, mas confuso;2023-03-17
+3518;organização no trabalho;comportamental;10.0;organizado, mas às vezes desatento;2023-04-10
+3519;fazer mais com menos;comportamental;7.0;boa execução com erros pontuais;2023-04-15
+3521;entregar com qualidade;execução;10.0;entrega consistente, mas falta comunicação;2023-03-31
+3522;organização no trabalho;comportamental;7.0;inovador, mas confuso;2023-03-29
+3525;atender aos prazos;execução;7.6;aprende rápido, mas esquece feedbacks;2023-04-15
+3526;"ser ""team player""";execução;9.4;trabalho em equipe precisa melhorar;2023-04-27
+3527;atender aos prazos;comportamental;8.3;trabalho em equipe precisa melhorar;2023-04-03
+3530;"ser ""team player""";execução;7.3;inovador, mas confuso;2023-03-18
+3533;sentimento de dono;execução;6.0;organizado, mas às vezes desatento;2023-04-30
+3534;atender aos prazos;comportamental;8.3;cumpre prazos, mas sem iniciativa;2023-03-17
+3536;entregar com qualidade;execução;6.1;boa execução com erros pontuais;2023-04-03
+3537;capacidade de aprender;execução;8.0;boa execução com erros pontuais;2023-03-31
+3538;resiliencia nas adversidades;execução;7.0;responsável, porém inseguro;2023-04-10
+3539;fazer mais com menos;comportamental;9.9;trabalho em equipe precisa melhorar;2023-04-14
+3541;sentimento de dono;comportamental;7.4;inovador, mas confuso;2023-04-25
+3542;atender aos prazos;execução;6.0;trabalho em equipe precisa melhorar;2023-04-18
+3543;pensar fora da caixa;execução;9.0;responsável, porém inseguro;2023-03-15
+3544;"ser ""team player""";execução;7.6;boa execução com erros pontuais;2023-04-21
+3545;fazer mais com menos;execução;6.0;reativo, falta proatividade;2023-04-04
+3546;resiliencia nas adversidades;execução;8.3;organizado, mas às vezes desatento;2023-04-06
+3548;"ser ""team player""";comportamental;9.0;boa execução com erros pontuais;2023-04-17
+3549;pensar fora da caixa;comportamental;8.8;entrega consistente, mas falta comunicação;2023-03-24
+3551;fazer mais com menos;comportamental;10.0;aprende rápido, mas esquece feedbacks;2023-04-10
+3552;pensar fora da caixa;comportamental;7.8;inovador, mas confuso;2023-04-15
+3554;pensar fora da caixa;comportamental;6.7;aprende rápido, mas esquece feedbacks;2023-03-13
+3555;resiliencia nas adversidades;execução;7.5;inovador, mas confuso;2023-03-22
+3558;pensar fora da caixa;execução;9.0;trabalho em equipe precisa melhorar;2023-04-25
+3559;pensar fora da caixa;comportamental;7.0;reativo, falta proatividade;2023-05-08
+3561;"ser ""team player""";execução;7.0;cumpre prazos, mas sem iniciativa;2023-03-20
+3562;fazer mais com menos;comportamental;8.2;trabalho em equipe precisa melhorar;2023-04-03
+3565;organização no trabalho;comportamental;8.9;inovador, mas confuso;2023-04-10
+3567;atender aos prazos;execução;6.0;responsável, porém inseguro;2023-04-19
+3568;resiliencia nas adversidades;execução;9.1;cumpre prazos, mas sem iniciativa;2023-04-15
+3569;"ser ""team player""";comportamental;8.0;trabalho em equipe precisa melhorar;2023-03-20
+3571;organização no trabalho;comportamental;7.6;boa execução com erros pontuais;2023-04-08
+3572;resiliencia nas adversidades;comportamental;10.0;criativo, porém pouco claro;2023-03-14
+3573;resiliencia nas adversidades;comportamental;7.0;aprende rápido, mas esquece feedbacks;2023-05-08
+3574;resiliencia nas adversidades;execução;6.5;trabalho em equipe precisa melhorar;2023-05-04
+3575;organização no trabalho;execução;7.5;entrega consistente, mas falta comunicação;2023-03-26
+3577;sentimento de dono;comportamental;8.6;entrega consistente, mas falta comunicação;2023-04-14
+3578;atender aos prazos;comportamental;6.0;aprende rápido, mas esquece feedbacks;2023-04-14
+3579;resiliencia nas adversidades;execução;7.4;inovador, mas confuso;2023-04-23
+3580;fazer mais com menos;execução;8.0;boa execução com erros pontuais;2023-03-15
+3582;sentimento de dono;comportamental;7.1;entrega consistente, mas falta comunicação;2023-04-11
+3583;organização no trabalho;comportamental;8.5;trabalho em equipe precisa melhorar;2023-04-22
+3584;capacidade de aprender;execução;7.0;organizado, mas às vezes desatento;2023-05-07
+3585;"ser ""team player""";execução;8.7;cumpre prazos, mas sem iniciativa;2023-04-29
+3586;pensar fora da caixa;comportamental;9.2;criativo, porém pouco claro;2023-04-18
+3587;entregar com qualidade;comportamental;8.8;criativo, porém pouco claro;2023-04-05
+3588;resiliencia nas adversidades;execução;6.8;entrega consistente, mas falta comunicação;2023-03-27
+3589;fazer mais com menos;comportamental;7.2;reativo, falta proatividade;2023-04-26
+3590;pensar fora da caixa;comportamental;9.6;entrega consistente, mas falta comunicação;2023-03-30
+3591;pensar fora da caixa;comportamental;6.7;aprende rápido, mas esquece feedbacks;2023-04-26
+3592;pensar fora da caixa;comportamental;6.0;criativo, porém pouco claro;2023-04-06
+3593;pensar fora da caixa;execução;6.2;reativo, falta proatividade;2023-05-04
+3596;resiliencia nas adversidades;execução;9.0;responsável, porém inseguro;2023-04-29
+3597;resiliencia nas adversidades;comportamental;10.0;entrega consistente, mas falta comunicação;2023-03-29
+3600;organização no trabalho;comportamental;6.7;entrega consistente, mas falta comunicação;2023-04-18
+3601;"ser ""team player""";execução;8.2;responsável, porém inseguro;2023-04-18
+3603;resiliencia nas adversidades;execução;6.4;entrega consistente, mas falta comunicação;2023-04-24
+3604;organização no trabalho;execução;7.0;trabalho em equipe precisa melhorar;2023-05-04
+3605;pensar fora da caixa;execução;8.2;responsável, porém inseguro;2023-04-28
+3608;resiliencia nas adversidades;execução;6.8;aprende rápido, mas esquece feedbacks;2023-04-16
+3610;organização no trabalho;execução;6.4;reativo, falta proatividade;2023-03-23
+3612;resiliencia nas adversidades;execução;9.6;trabalho em equipe precisa melhorar;2023-04-14
+3613;resiliencia nas adversidades;execução;8.0;organizado, mas às vezes desatento;2023-04-11
+3614;fazer mais com menos;execução;6.6;reativo, falta proatividade;2023-03-24
+3615;capacidade de aprender;comportamental;9.0;criativo, porém pouco claro;2023-04-13
+3617;atender aos prazos;execução;9.7;boa execução com erros pontuais;2023-04-21
+3618;entregar com qualidade;execução;7.5;inovador, mas confuso;2023-03-20
+3619;pensar fora da caixa;execução;8.6;entrega consistente, mas falta comunicação;2023-05-03
+3620;atender aos prazos;comportamental;8.0;inovador, mas confuso;2023-04-02
+3621;"ser ""team player""";execução;10.0;trabalho em equipe precisa melhorar;2023-04-02
+3622;fazer mais com menos;comportamental;8.5;reativo, falta proatividade;2023-04-29
+3623;organização no trabalho;execução;10.0;trabalho em equipe precisa melhorar;2023-03-23
+3625;entregar com qualidade;execução;6.8;entrega consistente, mas falta comunicação;2023-04-22
+3626;"ser ""team player""";execução;9.8;entrega consistente, mas falta comunicação;2023-03-29
+3627;capacidade de aprender;execução;10.0;criativo, porém pouco claro;2023-04-27
+3628;organização no trabalho;comportamental;7.0;criativo, porém pouco claro;2023-03-12
+3630;capacidade de aprender;execução;8.5;aprende rápido, mas esquece feedbacks;2023-04-27
+3631;sentimento de dono;comportamental;8.7;trabalho em equipe precisa melhorar;2023-04-10
+3632;capacidade de aprender;execução;8.2;responsável, porém inseguro;2023-04-11
+3635;atender aos prazos;comportamental;8.5;inovador, mas confuso;2023-04-30
+3636;pensar fora da caixa;execução;9.0;reativo, falta proatividade;2023-04-09
+3638;atender aos prazos;comportamental;6.0;entrega consistente, mas falta comunicação;2023-04-25
+3639;pensar fora da caixa;execução;6.0;entrega consistente, mas falta comunicação;2023-04-07
+3640;resiliencia nas adversidades;comportamental;7.0;aprende rápido, mas esquece feedbacks;2023-03-21
+3641;pensar fora da caixa;execução;6.0;entrega consistente, mas falta comunicação;2023-04-20
+3643;fazer mais com menos;execução;9.7;inovador, mas confuso;2023-04-15
+3644;entregar com qualidade;execução;10.0;boa execução com erros pontuais;2023-04-02
+3648;entregar com qualidade;execução;10.0;aprende rápido, mas esquece feedbacks;2023-03-27
+3649;fazer mais com menos;comportamental;9.0;cumpre prazos, mas sem iniciativa;2023-04-16
+3650;entregar com qualidade;comportamental;9.8;reativo, falta proatividade;2023-05-06
+3651;entregar com qualidade;comportamental;9.1;boa execução com erros pontuais;2023-05-08
+3652;atender aos prazos;execução;7.2;reativo, falta proatividade;2023-03-31
+3653;atender aos prazos;execução;9.8;boa execução com erros pontuais;2023-03-17
+3654;organização no trabalho;comportamental;7.3;criativo, porém pouco claro;2023-04-14
+3655;pensar fora da caixa;comportamental;9.0;inovador, mas confuso;2023-04-01
+3656;entregar com qualidade;comportamental;9.9;responsável, porém inseguro;2023-03-26
+3657;organização no trabalho;comportamental;9.7;inovador, mas confuso;2023-03-23
+3659;entregar com qualidade;comportamental;7.0;cumpre prazos, mas sem iniciativa;2023-04-27
+3661;pensar fora da caixa;comportamental;6.1;trabalho em equipe precisa melhorar;2023-05-01
+3662;"ser ""team player""";comportamental;10.0;aprende rápido, mas esquece feedbacks;2023-05-04
+3663;pensar fora da caixa;execução;8.0;entrega consistente, mas falta comunicação;2023-04-06
+3664;capacidade de aprender;execução;8.7;entrega consistente, mas falta comunicação;2023-04-14
+3665;sentimento de dono;comportamental;7.0;boa execução com erros pontuais;2023-03-27
+3666;resiliencia nas adversidades;execução;9.3;reativo, falta proatividade;2023-05-09
+3667;"ser ""team player""";comportamental;6.7;trabalho em equipe precisa melhorar;2023-04-17
+3668;fazer mais com menos;comportamental;7.4;entrega consistente, mas falta comunicação;2023-04-20
+3669;entregar com qualidade;execução;9.1;inovador, mas confuso;2023-03-22
+3675;organização no trabalho;execução;10.0;responsável, porém inseguro;2023-04-08
+3676;"ser ""team player""";comportamental;8.0;aprende rápido, mas esquece feedbacks;2023-04-18
+3677;entregar com qualidade;comportamental;7.8;trabalho em equipe precisa melhorar;2023-05-03
+3679;entregar com qualidade;execução;9.5;cumpre prazos, mas sem iniciativa;2023-03-11
+3680;entregar com qualidade;comportamental;8.4;criativo, porém pouco claro;2023-03-17
+3681;entregar com qualidade;comportamental;10.0;responsável, porém inseguro;2023-03-30
+3684;entregar com qualidade;execução;8.8;entrega consistente, mas falta comunicação;2023-04-03
+3685;"ser ""team player""";execução;7.0;reativo, falta proatividade;2023-04-14
+3686;capacidade de aprender;comportamental;8.0;responsável, porém inseguro;2023-04-23
+3689;sentimento de dono;comportamental;7.0;criativo, porém pouco claro;2023-04-03
+3690;entregar com qualidade;execução;10.0;organizado, mas às vezes desatento;2023-04-06
+3694;resiliencia nas adversidades;execução;7.2;entrega consistente, mas falta comunicação;2023-03-23
+3695;"ser ""team player""";execução;6.4;boa execução com erros pontuais;2023-03-18
+3697;pensar fora da caixa;execução;6.4;inovador, mas confuso;2023-03-14
+3699;resiliencia nas adversidades;execução;8.8;trabalho em equipe precisa melhorar;2023-04-27
+3700;sentimento de dono;execução;7.0;organizado, mas às vezes desatento;2023-04-02
+3701;sentimento de dono;execução;10.0;organizado, mas às vezes desatento;2023-04-16
+3704;resiliencia nas adversidades;execução;9.0;reativo, falta proatividade;2023-03-22
+3705;fazer mais com menos;execução;7.0;responsável, porém inseguro;2023-04-30
+3706;"ser ""team player""";execução;8.3;cumpre prazos, mas sem iniciativa;2023-03-26
+3707;capacidade de aprender;comportamental;7.0;aprende rápido, mas esquece feedbacks;2023-03-28
+3708;organização no trabalho;comportamental;9.8;criativo, porém pouco claro;2023-04-16
+3709;sentimento de dono;comportamental;9.9;aprende rápido, mas esquece feedbacks;2023-05-09
+3711;entregar com qualidade;execução;8.0;inovador, mas confuso;2023-04-04
+3712;organização no trabalho;comportamental;9.4;reativo, falta proatividade;2023-04-04
+3713;atender aos prazos;comportamental;7.9;reativo, falta proatividade;2023-04-22
+3714;entregar com qualidade;execução;10.0;reativo, falta proatividade;2023-04-07
+3716;organização no trabalho;execução;7.2;organizado, mas às vezes desatento;2023-03-24
+3717;entregar com qualidade;execução;9.8;cumpre prazos, mas sem iniciativa;2023-03-12
+3718;organização no trabalho;execução;8.6;boa execução com erros pontuais;2023-05-03
+3719;resiliencia nas adversidades;execução;6.4;entrega consistente, mas falta comunicação;2023-03-10
+3721;sentimento de dono;execução;7.7;trabalho em equipe precisa melhorar;2023-04-07
+3723;organização no trabalho;execução;9.2;organizado, mas às vezes desatento;2023-04-01
+3725;sentimento de dono;execução;9.5;responsável, porém inseguro;2023-04-26
+3726;organização no trabalho;comportamental;10.0;trabalho em equipe precisa melhorar;2023-04-12
+3727;entregar com qualidade;comportamental;10.0;criativo, porém pouco claro;2023-04-04
+3728;organização no trabalho;comportamental;6.0;reativo, falta proatividade;2023-03-26
+3729;fazer mais com menos;comportamental;7.8;inovador, mas confuso;2023-04-12
+3730;sentimento de dono;execução;6.0;cumpre prazos, mas sem iniciativa;2023-03-24
+3732;fazer mais com menos;comportamental;8.8;reativo, falta proatividade;2023-03-23
+3733;fazer mais com menos;comportamental;6.4;trabalho em equipe precisa melhorar;2023-05-03
+3734;pensar fora da caixa;execução;6.0;trabalho em equipe precisa melhorar;2023-03-28
+3735;"ser ""team player""";execução;8.6;cumpre prazos, mas sem iniciativa;2023-05-09
+3736;organização no trabalho;comportamental;9.0;boa execução com erros pontuais;2023-04-11
+3738;organização no trabalho;comportamental;7.4;cumpre prazos, mas sem iniciativa;2023-04-15
+3739;capacidade de aprender;execução;7.5;aprende rápido, mas esquece feedbacks;2023-04-25
+3741;entregar com qualidade;comportamental;9.8;reativo, falta proatividade;2023-04-22
+3742;capacidade de aprender;execução;8.0;inovador, mas confuso;2023-03-20
+3743;resiliencia nas adversidades;comportamental;10.0;inovador, mas confuso;2023-05-06
+3744;entregar com qualidade;comportamental;7.0;entrega consistente, mas falta comunicação;2023-05-05
+3747;atender aos prazos;execução;9.1;boa execução com erros pontuais;2023-04-13
+3748;organização no trabalho;comportamental;8.6;boa execução com erros pontuais;2023-04-21
+3750;resiliencia nas adversidades;execução;7.4;criativo, porém pouco claro;2023-04-24
+3751;resiliencia nas adversidades;comportamental;8.1;responsável, porém inseguro;2023-03-23
+3752;fazer mais com menos;comportamental;9.0;cumpre prazos, mas sem iniciativa;2023-04-02
+3753;pensar fora da caixa;comportamental;6.0;cumpre prazos, mas sem iniciativa;2023-03-27
+3754;"ser ""team player""";execução;6.8;trabalho em equipe precisa melhorar;2023-04-28
+3755;sentimento de dono;execução;8.6;trabalho em equipe precisa melhorar;2023-03-16
+3756;fazer mais com menos;comportamental;9.0;entrega consistente, mas falta comunicação;2023-03-17
+3758;sentimento de dono;execução;10.0;entrega consistente, mas falta comunicação;2023-03-19
+3759;pensar fora da caixa;comportamental;8.0;boa execução com erros pontuais;2023-04-02
+3760;fazer mais com menos;comportamental;8.7;trabalho em equipe precisa melhorar;2023-04-15
+3762;entregar com qualidade;comportamental;6.0;organizado, mas às vezes desatento;2023-04-03
+3763;sentimento de dono;comportamental;7.6;trabalho em equipe precisa melhorar;2023-04-12
+3765;"ser ""team player""";execução;9.0;aprende rápido, mas esquece feedbacks;2023-04-13
+3768;pensar fora da caixa;comportamental;10.0;aprende rápido, mas esquece feedbacks;2023-04-25
+3769;fazer mais com menos;comportamental;9.0;inovador, mas confuso;2023-03-12
+3770;entregar com qualidade;execução;7.1;reativo, falta proatividade;2023-04-22
+3771;entregar com qualidade;execução;8.9;organizado, mas às vezes desatento;2023-04-24
+3772;entregar com qualidade;execução;9.0;criativo, porém pouco claro;2023-04-13
+3773;entregar com qualidade;comportamental;9.0;entrega consistente, mas falta comunicação;2023-03-31
+3775;organização no trabalho;execução;9.5;responsável, porém inseguro;2023-04-07
+3777;entregar com qualidade;execução;6.2;organizado, mas às vezes desatento;2023-04-03
+3779;atender aos prazos;comportamental;6.6;aprende rápido, mas esquece feedbacks;2023-04-19
+3780;sentimento de dono;execução;7.0;entrega consistente, mas falta comunicação;2023-03-27
+3782;resiliencia nas adversidades;execução;8.0;aprende rápido, mas esquece feedbacks;2023-05-06
+3786;capacidade de aprender;comportamental;9.3;responsável, porém inseguro;2023-04-17
+3789;sentimento de dono;comportamental;6.7;inovador, mas confuso;2023-03-26
+3790;fazer mais com menos;execução;6.6;organizado, mas às vezes desatento;2023-04-25
+3791;"ser ""team player""";comportamental;6.3;reativo, falta proatividade;2023-04-04
+3793;entregar com qualidade;comportamental;6.1;aprende rápido, mas esquece feedbacks;2023-05-01
+3794;atender aos prazos;execução;7.3;organizado, mas às vezes desatento;2023-04-12
+3796;capacidade de aprender;execução;7.1;inovador, mas confuso;2023-03-17
+3797;organização no trabalho;execução;6.1;criativo, porém pouco claro;2023-03-11
+3798;sentimento de dono;execução;10.0;reativo, falta proatividade;2023-04-08
+3800;fazer mais com menos;execução;6.3;criativo, porém pouco claro;2023-04-23
+3801;capacidade de aprender;comportamental;6.4;aprende rápido, mas esquece feedbacks;2023-04-16
+3802;entregar com qualidade;comportamental;7.7;organizado, mas às vezes desatento;2023-04-25
+3803;sentimento de dono;execução;8.6;entrega consistente, mas falta comunicação;2023-04-12
+3804;fazer mais com menos;comportamental;7.3;reativo, falta proatividade;2023-04-15
+3805;atender aos prazos;comportamental;8.0;criativo, porém pouco claro;2023-04-09
+3806;fazer mais com menos;comportamental;9.0;trabalho em equipe precisa melhorar;2023-05-08
+3807;sentimento de dono;execução;7.0;aprende rápido, mas esquece feedbacks;2023-03-18
+3809;resiliencia nas adversidades;execução;8.6;reativo, falta proatividade;2023-05-08
+3812;"ser ""team player""";execução;6.8;aprende rápido, mas esquece feedbacks;2023-04-12
+3813;resiliencia nas adversidades;execução;6.3;reativo, falta proatividade;2023-03-23
+3814;entregar com qualidade;execução;6.0;trabalho em equipe precisa melhorar;2023-04-26
+3815;sentimento de dono;comportamental;7.7;cumpre prazos, mas sem iniciativa;2023-05-06
+3816;fazer mais com menos;execução;6.1;responsável, porém inseguro;2023-03-13
+3817;"ser ""team player""";comportamental;8.0;aprende rápido, mas esquece feedbacks;2023-03-28
+3818;fazer mais com menos;comportamental;10.0;criativo, porém pouco claro;2023-04-18
+3819;"ser ""team player""";execução;8.0;aprende rápido, mas esquece feedbacks;2023-04-08
+3820;organização no trabalho;execução;7.0;organizado, mas às vezes desatento;2023-04-17
+3821;"ser ""team player""";execução;7.9;criativo, porém pouco claro;2023-03-17
+3822;entregar com qualidade;execução;8.0;organizado, mas às vezes desatento;2023-04-18
+3823;resiliencia nas adversidades;execução;6.2;organizado, mas às vezes desatento;2023-04-28
+3824;"ser ""team player""";execução;9.3;reativo, falta proatividade;2023-03-23
+3826;resiliencia nas adversidades;comportamental;9.9;cumpre prazos, mas sem iniciativa;2023-04-24
+3827;organização no trabalho;comportamental;7.0;reativo, falta proatividade;2023-03-21
+3828;resiliencia nas adversidades;execução;8.0;inovador, mas confuso;2023-04-16
+3829;entregar com qualidade;comportamental;6.5;inovador, mas confuso;2023-04-07
+3832;"ser ""team player""";comportamental;7.1;aprende rápido, mas esquece feedbacks;2023-04-20
+3833;organização no trabalho;execução;9.9;entrega consistente, mas falta comunicação;2023-04-28
+3834;"ser ""team player""";execução;9.0;reativo, falta proatividade;2023-04-17
+3835;resiliencia nas adversidades;comportamental;8.9;trabalho em equipe precisa melhorar;2023-04-26
+3836;organização no trabalho;execução;6.9;cumpre prazos, mas sem iniciativa;2023-03-21
+3837;pensar fora da caixa;execução;6.6;cumpre prazos, mas sem iniciativa;2023-04-25
+3838;fazer mais com menos;execução;6.0;inovador, mas confuso;2023-04-14
+3839;atender aos prazos;comportamental;9.3;responsável, porém inseguro;2023-03-19
+3840;entregar com qualidade;execução;6.0;organizado, mas às vezes desatento;2023-05-05
+3842;organização no trabalho;execução;9.0;trabalho em equipe precisa melhorar;2023-04-07
+3843;organização no trabalho;execução;7.0;aprende rápido, mas esquece feedbacks;2023-03-14
+3844;atender aos prazos;comportamental;6.4;boa execução com erros pontuais;2023-04-12
+3847;resiliencia nas adversidades;execução;7.0;organizado, mas às vezes desatento;2023-03-25
+3848;entregar com qualidade;execução;7.4;inovador, mas confuso;2023-03-24
+3850;sentimento de dono;execução;9.0;reativo, falta proatividade;2023-03-12
+3851;pensar fora da caixa;comportamental;6.3;cumpre prazos, mas sem iniciativa;2023-03-17
+3852;resiliencia nas adversidades;comportamental;6.7;entrega consistente, mas falta comunicação;2023-05-05
+3853;atender aos prazos;comportamental;10.0;organizado, mas às vezes desatento;2023-03-25
+3854;atender aos prazos;execução;6.3;cumpre prazos, mas sem iniciativa;2023-04-21
+3855;sentimento de dono;execução;9.8;trabalho em equipe precisa melhorar;2023-04-08
+3857;organização no trabalho;comportamental;7.4;reativo, falta proatividade;2023-04-23
+3858;"ser ""team player""";comportamental;6.0;aprende rápido, mas esquece feedbacks;2023-04-15
+3859;entregar com qualidade;execução;8.3;criativo, porém pouco claro;2023-04-19
+3860;organização no trabalho;execução;9.0;reativo, falta proatividade;2023-04-10
+3861;pensar fora da caixa;execução;8.8;reativo, falta proatividade;2023-04-04
+3862;organização no trabalho;execução;6.8;boa execução com erros pontuais;2023-04-18
+3863;fazer mais com menos;execução;8.0;organizado, mas às vezes desatento;2023-04-11
+3864;resiliencia nas adversidades;execução;9.9;criativo, porém pouco claro;2023-03-31
+3865;organização no trabalho;execução;10.0;organizado, mas às vezes desatento;2023-03-29
+3866;fazer mais com menos;comportamental;6.1;organizado, mas às vezes desatento;2023-03-22
+3867;pensar fora da caixa;comportamental;6.4;trabalho em equipe precisa melhorar;2023-04-16
+3868;"ser ""team player""";execução;9.0;entrega consistente, mas falta comunicação;2023-03-14
+3869;resiliencia nas adversidades;execução;9.2;reativo, falta proatividade;2023-03-10
+3872;fazer mais com menos;comportamental;7.4;organizado, mas às vezes desatento;2023-05-04
+3873;pensar fora da caixa;execução;7.6;cumpre prazos, mas sem iniciativa;2023-04-26
+3874;fazer mais com menos;comportamental;8.3;aprende rápido, mas esquece feedbacks;2023-03-18
+3875;sentimento de dono;execução;8.7;cumpre prazos, mas sem iniciativa;2023-03-22
+3876;entregar com qualidade;comportamental;6.0;aprende rápido, mas esquece feedbacks;2023-03-12
+3877;pensar fora da caixa;comportamental;7.9;aprende rápido, mas esquece feedbacks;2023-04-11
+3878;entregar com qualidade;execução;8.0;criativo, porém pouco claro;2023-04-16
+3879;organização no trabalho;execução;6.4;entrega consistente, mas falta comunicação;2023-04-03
+3880;capacidade de aprender;comportamental;8.5;cumpre prazos, mas sem iniciativa;2023-04-19
+3882;organização no trabalho;comportamental;9.1;reativo, falta proatividade;2023-04-05
+3883;fazer mais com menos;comportamental;9.7;cumpre prazos, mas sem iniciativa;2023-04-22
+3884;"ser ""team player""";execução;9.0;inovador, mas confuso;2023-03-24
+3885;organização no trabalho;comportamental;9.0;entrega consistente, mas falta comunicação;2023-04-20
+3886;"ser ""team player""";execução;9.3;responsável, porém inseguro;2023-04-18
+3888;fazer mais com menos;comportamental;9.0;inovador, mas confuso;2023-04-22
+3889;fazer mais com menos;comportamental;6.9;boa execução com erros pontuais;2023-03-30
+3892;entregar com qualidade;comportamental;6.4;inovador, mas confuso;2023-04-16
+3893;capacidade de aprender;execução;10.0;trabalho em equipe precisa melhorar;2023-04-07
+3895;entregar com qualidade;comportamental;10.0;organizado, mas às vezes desatento;2023-03-28
+3896;fazer mais com menos;execução;7.2;criativo, porém pouco claro;2023-05-02
+3897;pensar fora da caixa;execução;7.0;inovador, mas confuso;2023-04-28
+3898;fazer mais com menos;comportamental;7.3;boa execução com erros pontuais;2023-04-08
+3899;capacidade de aprender;comportamental;6.7;reativo, falta proatividade;2023-04-16
+3901;capacidade de aprender;comportamental;10.0;inovador, mas confuso;2023-04-29
+3902;capacidade de aprender;execução;7.4;trabalho em equipe precisa melhorar;2023-05-01
+3905;"ser ""team player""";execução;9.0;boa execução com erros pontuais;2023-04-25
+3906;sentimento de dono;comportamental;8.9;aprende rápido, mas esquece feedbacks;2023-04-18
+3908;entregar com qualidade;comportamental;7.9;reativo, falta proatividade;2023-03-24
+3909;fazer mais com menos;execução;10.0;aprende rápido, mas esquece feedbacks;2023-04-05
+3911;"ser ""team player""";execução;8.0;organizado, mas às vezes desatento;2023-03-27
+3912;entregar com qualidade;comportamental;7.0;organizado, mas às vezes desatento;2023-04-19
+3913;resiliencia nas adversidades;comportamental;9.0;responsável, porém inseguro;2023-04-15
+3914;fazer mais com menos;execução;6.4;aprende rápido, mas esquece feedbacks;2023-04-22
+3915;capacidade de aprender;comportamental;8.6;organizado, mas às vezes desatento;2023-04-05
+3916;organização no trabalho;execução;9.7;inovador, mas confuso;2023-03-23
+3917;resiliencia nas adversidades;execução;7.5;responsável, porém inseguro;2023-03-10
+3918;atender aos prazos;comportamental;7.3;criativo, porém pouco claro;2023-03-10
+3919;pensar fora da caixa;comportamental;9.4;reativo, falta proatividade;2023-03-22
+3921;"ser ""team player""";execução;10.0;inovador, mas confuso;2023-03-27
+3922;pensar fora da caixa;comportamental;8.0;entrega consistente, mas falta comunicação;2023-05-09
+3923;entregar com qualidade;comportamental;7.8;trabalho em equipe precisa melhorar;2023-04-18
+3925;resiliencia nas adversidades;comportamental;9.0;reativo, falta proatividade;2023-05-07
+3926;"ser ""team player""";execução;9.1;criativo, porém pouco claro;2023-03-29
+3927;pensar fora da caixa;comportamental;10.0;criativo, porém pouco claro;2023-04-16
+3928;pensar fora da caixa;comportamental;8.2;aprende rápido, mas esquece feedbacks;2023-03-24
+3929;pensar fora da caixa;comportamental;6.6;entrega consistente, mas falta comunicação;2023-04-16
+3930;resiliencia nas adversidades;comportamental;9.9;organizado, mas às vezes desatento;2023-05-07
+3931;fazer mais com menos;comportamental;8.0;responsável, porém inseguro;2023-04-05
+3932;organização no trabalho;execução;8.0;entrega consistente, mas falta comunicação;2023-05-04
+3933;atender aos prazos;comportamental;6.4;criativo, porém pouco claro;2023-04-04
+3934;fazer mais com menos;execução;9.4;aprende rápido, mas esquece feedbacks;2023-04-09
+3935;pensar fora da caixa;execução;9.8;boa execução com erros pontuais;2023-05-06
+3938;"ser ""team player""";execução;9.0;entrega consistente, mas falta comunicação;2023-03-12
+3939;resiliencia nas adversidades;comportamental;6.5;trabalho em equipe precisa melhorar;2023-04-01
+3940;sentimento de dono;execução;7.0;entrega consistente, mas falta comunicação;2023-04-28
+3941;entregar com qualidade;comportamental;7.0;responsável, porém inseguro;2023-04-18
+3943;fazer mais com menos;comportamental;9.5;aprende rápido, mas esquece feedbacks;2023-03-14
+3944;"ser ""team player""";comportamental;8.3;reativo, falta proatividade;2023-03-19
+3945;resiliencia nas adversidades;execução;6.9;cumpre prazos, mas sem iniciativa;2023-03-27
+3946;capacidade de aprender;execução;7.8;reativo, falta proatividade;2023-04-13
+3947;"ser ""team player""";comportamental;8.4;criativo, porém pouco claro;2023-03-27
+3948;atender aos prazos;execução;8.6;responsável, porém inseguro;2023-04-05
+3949;"ser ""team player""";comportamental;9.5;entrega consistente, mas falta comunicação;2023-04-15
+3950;capacidade de aprender;execução;7.0;entrega consistente, mas falta comunicação;2023-03-16
+3952;sentimento de dono;comportamental;7.9;responsável, porém inseguro;2023-04-17
+3953;capacidade de aprender;comportamental;8.1;trabalho em equipe precisa melhorar;2023-03-12
+3956;fazer mais com menos;execução;9.5;aprende rápido, mas esquece feedbacks;2023-03-30
+3957;pensar fora da caixa;execução;9.0;aprende rápido, mas esquece feedbacks;2023-03-16
+3959;organização no trabalho;execução;7.5;criativo, porém pouco claro;2023-03-20
+3961;fazer mais com menos;execução;8.5;inovador, mas confuso;2023-03-29
+3963;entregar com qualidade;execução;8.0;boa execução com erros pontuais;2023-03-26
+3964;entregar com qualidade;comportamental;9.3;boa execução com erros pontuais;2023-05-04
+3965;capacidade de aprender;comportamental;9.0;entrega consistente, mas falta comunicação;2023-03-22
+3966;resiliencia nas adversidades;comportamental;8.0;entrega consistente, mas falta comunicação;2023-04-24
+3967;sentimento de dono;comportamental;6.6;responsável, porém inseguro;2023-04-10
+3968;"ser ""team player""";execução;7.0;reativo, falta proatividade;2023-04-04
+3969;sentimento de dono;comportamental;6.3;organizado, mas às vezes desatento;2023-04-23
+3970;fazer mais com menos;execução;10.0;criativo, porém pouco claro;2023-04-23
+3971;"ser ""team player""";comportamental;10.0;criativo, porém pouco claro;2023-03-12
+3972;organização no trabalho;comportamental;6.0;inovador, mas confuso;2023-05-05
+3973;capacidade de aprender;comportamental;8.2;aprende rápido, mas esquece feedbacks;2023-05-09
+3974;atender aos prazos;comportamental;6.3;reativo, falta proatividade;2023-03-23
+3976;entregar com qualidade;comportamental;7.0;responsável, porém inseguro;2023-04-06
+3977;capacidade de aprender;execução;9.0;cumpre prazos, mas sem iniciativa;2023-05-03
+3978;organização no trabalho;comportamental;9.7;criativo, porém pouco claro;2023-04-23
+3979;pensar fora da caixa;comportamental;9.2;responsável, porém inseguro;2023-03-22
+3980;"ser ""team player""";comportamental;8.3;entrega consistente, mas falta comunicação;2023-04-14
+3981;capacidade de aprender;comportamental;8.0;aprende rápido, mas esquece feedbacks;2023-04-27
+3982;resiliencia nas adversidades;execução;8.6;criativo, porém pouco claro;2023-05-02
+3983;pensar fora da caixa;execução;8.9;organizado, mas às vezes desatento;2023-05-06
+3984;organização no trabalho;comportamental;9.3;trabalho em equipe precisa melhorar;2023-03-16
+3985;atender aos prazos;comportamental;6.1;inovador, mas confuso;2023-05-06
+3986;"ser ""team player""";comportamental;8.1;aprende rápido, mas esquece feedbacks;2023-05-03
+3987;pensar fora da caixa;execução;8.0;cumpre prazos, mas sem iniciativa;2023-05-05
+3988;capacidade de aprender;execução;8.3;inovador, mas confuso;2023-05-08
+3989;sentimento de dono;comportamental;8.7;entrega consistente, mas falta comunicação;2023-04-25
+3990;entregar com qualidade;execução;7.6;entrega consistente, mas falta comunicação;2023-04-23
+3993;capacidade de aprender;execução;10.0;responsável, porém inseguro;2023-04-16
+3994;resiliencia nas adversidades;comportamental;6.6;organizado, mas às vezes desatento;2023-03-31
