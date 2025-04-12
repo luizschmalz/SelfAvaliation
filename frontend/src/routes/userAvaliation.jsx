@@ -44,6 +44,7 @@ const UserAvaliation = () => {
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+    console.log('Dados enviados:', formData);
   
     try {
       const response = await axios.post('https://6bdb-190-115-106-175.ngrok-free.app/api/self-avaliation', formData);
